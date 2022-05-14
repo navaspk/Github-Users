@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="new_user">New</string>
+    <string name="user_image">github image</string>
+    <string name="error_internet_not_available">No internet</string>
+    <string name="switch_view">Switch view</string>
+</resources>
